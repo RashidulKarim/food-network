@@ -50,7 +50,6 @@ body {
 .about-me-img {
   width: 40% !important;
   margin-left: 20%;
-  margin-top: 65px;
 }
 .text-align {
   text-align: justify;
@@ -77,9 +76,9 @@ body {
   width: 100%;
 }
 .social-media-info {
-  width: 87%;
+  width: 80%;
   margin: 0px auto;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 footer {
   background-color: black;
@@ -87,4 +86,13 @@ footer {
 }
 .white-color {
   color: white;
+}
+.customer-review {
+  width: 87%;
+  margin: 0px auto;
+  margin-bottom: 150px;
+}
+.customer-review img {
+  width: 30%;
+  border-radius: 50%;
 }
