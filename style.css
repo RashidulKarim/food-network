@@ -2,3 +2,88 @@ body {
   font-family: "Poppins", sans-serif;
   margin: 0;
 }
+.flexible-content {
+  display: flex;
+  align-items: center;
+  margin-bottom: 100px;
+}
+.title {
+  font-size: 60px;
+  font-weight: 800px;
+}
+.color-text {
+  background: -webkit-linear-gradient(#fba24f, #ff1e1e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.title-description {
+  color: gray;
+  font-weight: 400;
+}
+.link-button {
+  text-decoration: none;
+  color: white;
+  font-weight: 800px;
+  padding: 12px 40px;
+  border-radius: 20px;
+  background-image: linear-gradient(#fba24f, #ff1e1e);
+}
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 70%;
+}
+.top-banner {
+  margin-left: 10%;
+}
+.large-h2 {
+  font-size: 40px;
+}
+.about-me {
+  background-image: url(images/shape.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  padding-right: 10%;
+}
+.about-me-img {
+  width: 40% !important;
+  margin-left: 20%;
+}
+.text-align {
+  text-align: justify;
+}
+.text-center {
+  text-align: center;
+}
+.recipes-container {
+  width: 90%;
+  margin: 0px auto;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.one-third {
+  width: 31%;
+  margin-left: 2%;
+}
+.shadow {
+  box-shadow: 10px 10px 30px gray;
+  padding: 1%;
+  border-radius: 20px;
+}
+.one-third img {
+  width: 100%;
+}
+.social-media-info {
+  width: 87%;
+  margin: 0px auto;
+  margin-bottom: 150px;
+}
+footer {
+  background-color: black;
+  height: 200px;
+}
+.white-color {
+  color: white;
+}
