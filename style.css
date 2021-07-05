@@ -12,9 +12,7 @@ body {
   font-weight: 800px;
 }
 .color-text {
-  background: -webkit-linear-gradient(#fba24f, #ff1e1e);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #fba24f;
 }
 .title-description {
   color: gray;
@@ -90,9 +88,22 @@ footer {
 .customer-review {
   width: 87%;
   margin: 0px auto;
-  margin-bottom: 150px;
+  margin-bottom: 10px;
 }
 .customer-review img {
   width: 30%;
   border-radius: 50%;
+}
+.input-box {
+  padding: 15px 40px;
+  font-size: 20px;
+  text-align: left;
+}
+.btn {
+  padding: 10px 40px;
+  border: 3px solid black;
+  border-radius: 20px;
+}
+.subscribe {
+  margin-bottom: 100px;
 }
