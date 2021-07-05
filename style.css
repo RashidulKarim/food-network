@@ -50,6 +50,7 @@ body {
 .about-me-img {
   width: 40% !important;
   margin-left: 20%;
+  margin-top: 65px;
 }
 .text-align {
   text-align: justify;
